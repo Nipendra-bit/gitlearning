@@ -20,6 +20,7 @@ class Adder
 		b=sc.nextInt();
 		res=a+b;
 		System.out.println(res);
+		System.out.println("hello Git");
 	}
 }
 
