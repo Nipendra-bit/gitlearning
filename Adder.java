@@ -12,14 +12,14 @@ class Adder
 {
 	public static void main(String[] args)
 	{
-		int a,b,sum;
+		int a,b,res;
 		Scanner sc;
 		sc=new Scanner(System.in);
 		System.out.print("Enter the two numbers");
 		a=sc.nextInt();
 		b=sc.nextInt();
-		sum=a+b;
-		System.out.println(sum);
+		res=a+b;
+		System.out.println(res);
 	}
 }
 
